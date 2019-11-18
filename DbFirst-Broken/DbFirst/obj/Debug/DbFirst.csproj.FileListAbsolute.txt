@@ -1,0 +1,11 @@
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\DbFirst\DbFirst\bin\Debug\DbFirst.exe.config
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\DbFirst\DbFirst\bin\Debug\DbFirst.exe
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\DbFirst\DbFirst\bin\Debug\DbFirst.pdb
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\DbFirst\DbFirst\bin\Debug\EntityFramework.dll
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\DbFirst\DbFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\DbFirst\DbFirst\bin\Debug\EntityFramework.xml
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\DbFirst\DbFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\DbFirst\DbFirst\obj\Debug\DbFirst.csprojAssemblyReference.cache
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.CopyComplete
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\DbFirst\DbFirst\obj\Debug\DbFirst.exe
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\DbFirst\DbFirst\obj\Debug\DbFirst.pdb

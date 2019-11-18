@@ -1,0 +1,13 @@
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialModel.resources
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache

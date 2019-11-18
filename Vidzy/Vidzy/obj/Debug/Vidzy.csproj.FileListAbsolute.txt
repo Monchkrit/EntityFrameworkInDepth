@@ -1,0 +1,11 @@
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\Vidzy\Vidzy\bin\Debug\Vidzy.exe.config
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\Vidzy\Vidzy\bin\Debug\Vidzy.exe
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\Vidzy\Vidzy\bin\Debug\Vidzy.pdb
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\Vidzy\Vidzy\bin\Debug\EntityFramework.dll
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\Vidzy\Vidzy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\Vidzy\Vidzy\bin\Debug\EntityFramework.xml
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\Vidzy\Vidzy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.CopyComplete
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\Vidzy\Vidzy\obj\Debug\Vidzy.exe
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\Vidzy\Vidzy\obj\Debug\Vidzy.pdb
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\Vidzy\Vidzy\obj\Debug\Vidzy.csprojAssemblyReference.cache

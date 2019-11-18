@@ -1,0 +1,14 @@
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirstExistingDatabase\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.exe.config
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirstExistingDatabase\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.exe
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirstExistingDatabase\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.pdb
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirstExistingDatabase\CodeFirstExistingDatabase\bin\Debug\EntityFramework.dll
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirstExistingDatabase\CodeFirstExistingDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirstExistingDatabase\CodeFirstExistingDatabase\bin\Debug\EntityFramework.xml
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirstExistingDatabase\CodeFirstExistingDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirstExistingDatabase\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csprojAssemblyReference.cache
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirstExistingDatabase\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csproj.CopyComplete
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirstExistingDatabase\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.exe
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirstExistingDatabase\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.pdb
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirstExistingDatabase\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.Migrations.InitialModel.resources
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirstExistingDatabase\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csproj.GenerateResource.cache
+C:\Users\monch\Desktop\coding-environment\src\EntityFrameworkInDepth\CodeFirstExistingDatabase\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.Migrations.AddCategoriesTable.resources
